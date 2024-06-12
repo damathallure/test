@@ -17,10 +17,10 @@
 localPath="/var/tmp/TOL_dmth"
 
 declare -A SERVERS
-SERVERS[TLC]="10.150.248.89"
-SERVERS[MTY]="10.150.246.89"
-SERVERS[GDL]="10.36.232.89"
-SERVERS[MGC]="10.32.215.89"
+SERVERS[TLC]=""
+SERVERS[MTY]=""
+SERVERS[GDL]=""
+SERVERS[MGC]=""
 
 if [ $4 == "666" ];
 then
